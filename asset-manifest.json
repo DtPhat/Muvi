@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Muvi/static/css/main.e6c13ad2.css",
+    "main.js": "/Muvi/static/js/main.b342c7be.js",
+    "static/js/787.2515bfcf.chunk.js": "/Muvi/static/js/787.2515bfcf.chunk.js",
+    "index.html": "/Muvi/index.html",
+    "main.e6c13ad2.css.map": "/Muvi/static/css/main.e6c13ad2.css.map",
+    "main.b342c7be.js.map": "/Muvi/static/js/main.b342c7be.js.map",
+    "787.2515bfcf.chunk.js.map": "/Muvi/static/js/787.2515bfcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b342c7be.js"
+  ]
+}
